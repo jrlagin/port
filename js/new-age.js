@@ -124,16 +124,6 @@ jQuery('.pageNum').click(function() {
   }
 })
 
-   window.onload = ("test", overlay)
-
-function overlay() {
-    setTimeout(function() {
-        var overlay = document.getElementById('overlay');
-        overlay.style.display = 'none';
-
-    }, 4000);
-
-};
 
 
 //jQuery('.console').append('count = ' + count + ' - current = ' + curPage);
