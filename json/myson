@@ -1,0 +1,15 @@
+{
+  "jayr": [
+    {
+      "name" : "Purrsloud",
+      "species" : "j",
+      "birthYear" : 2016,
+      "photo1" : "https://jrlagin.github.io/publica/img/1one.png",
+        "photo2" : "https://jrlagin.github.io/publica/img/2two.png",
+          "photo3" : "https://jrlagin.github.io/publica/img/3three.png"
+          "photo4" : "https://jrlagin.github.io/publica/img/4four.png"
+      
+    }
+    
+  ]
+}
